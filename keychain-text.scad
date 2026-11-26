@@ -1,7 +1,7 @@
 // GLOBAL
 $fn = 128; // number of segments
 font_size = 10;
-font = "ChakraPetch-Bold";
+font = "ChakraPetch-Bold:Bold";
 part = "all"; // all | base | border | text
 
 module round_rect(width, height, thickness, radius){
